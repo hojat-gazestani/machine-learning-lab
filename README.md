@@ -22,3 +22,9 @@ Hands-on experiments, implementations, debugging sessions, and practical exercis
 [rag-systems](https://github.com/hojat-gazestani/machine-learning-lab/tree/main/rag-systems)
 
 ---
+
+[corrective-rag theory repository]()
+
+[corrective-rag](https://github.com/hojat-gazestani/machine-learning-lab/tree/main/rag-systems/corrective-rag)
+
+---
